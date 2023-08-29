@@ -6,7 +6,7 @@
 
 Fork and clone this repository and then open it up in your favorite IDE. Open the `index.html` in your browser and start the server with `json-server --watch db.json`.
 
-This challenge might feel different from other challenges so read the directions *carefully*.
+This challenge might feel different from other challenges so read the directions *carefully*.-
 
 ## Deliverable One
 
